@@ -21,7 +21,7 @@ public class Articolo {
 	public void setDescrizione(String descrizione) {
 		this.descrizione = descrizione;
 	}
-
+	//prova
 	public int getQuantita() {
 		return quantita;
 	}
